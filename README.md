@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">this is Sumit Thakur </h1>
 
@@ -9,10 +9,10 @@
 - 🌱 I’m currently learning in Masai School as Full Stack Web Developer
 - 👯 I’m looking to collaborate on project where I can creating or designing a website
 - 🤔 I’m looking for help with problem solving skills
-- 💬 Ask me about the new technologies and spotrs
-- 📫 How to reach me: thakursumit280@gmail.com
+- 💬 Ask me about the **new Technologies and spotrs
+- 📫 How to reach me: **thakursumit280@gmail.com
 - 😄 Pronouns: Soomeet
-- ⚡ Fun fact: Cant leve withour sports and books..
+- ⚡ Fun fact: Cant leave without **Sports, Books & Music
 
 
 
