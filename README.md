@@ -2,6 +2,13 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> this is Sumit Thakur </h1>
 
+
+
+
+## ⚙ Statistics and Languages 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SamSumit007&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSumit&layout=compact&theme=tokyonight"> <br>
+
+
 ## 🙋‍♂️ About Me
 
 
@@ -57,4 +64,4 @@
 <a href="https://github.com/sumitthakur/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SamSumit007">
 </a>
-<a href="https://github.com/Samsumit007?tab=followers"><img src="https://img.shields.io/github/followers/Imaryan08?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Samsumit007?tab=followers"><img src="https://img.shields.io/github/followers/SamSumit007?label=Followers&style=social" alt="GitHub Badge"></a>
