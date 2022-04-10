@@ -1,9 +1,7 @@
 ### Hi there 👋 my self Sumit Thakur
 
 
-**SamSumit007/SamSumit007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...project where I have to made clone of any given websites
 - 🌱 I’m currently learning in Masai School as Full Stack Web Developer
@@ -12,4 +10,29 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: thakursumit280@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Cant leve withour sports and books 
+- ⚡ Fun fact: Cant leve withour sports and books..
+
+
+
+
+
+<p align="center">
+  An Aspiring Full-stack developer with a curious mind who loves solving very complex and challenging real-world problems. Also, more interested in making a website more functional and user-friendly and proficient in writing clean code and efficient code.
+</p>
+
+
+<p align="center">
+  Proficiencies
+</p>
+
+<p align="center">
+  <img width="560"  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
+</p>
+<p align="center">
+  <img width="460"  src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
+</p>
+
+
+
+
+![Vikash GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash93825&show_icons=true&theme=gotham)
