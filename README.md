@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on ...project where I have to made clone of any given websites
 - 🌱 I’m currently learning in Masai School as Full Stack Web Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on project where I can creating or designing a website
+- 🤔 I’m looking for help with problem solving skills
+- 💬 Ask me about the new technologies and spotrs
 - 📫 How to reach me: thakursumit280@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Soomeet
 - ⚡ Fun fact: Cant leve withour sports and books..
 
 
@@ -35,4 +35,4 @@
 
 
 
-![Vikash GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash93825&show_icons=true&theme=gotham)
+
