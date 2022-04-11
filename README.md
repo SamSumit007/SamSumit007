@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning in Masai School as Full Stack Web Developer
 - 👯 I’m looking to collaborate on project where I can creating or designing a website
 - 🤔 I’m looking for help with problem solving skills
-- 💬 Ask me about the **new Technologies and Spotrs**
+- 💬 Ask me about the **new Technologies and Sports**
 - 📫 How to reach me: **thakursumit280@gmail.com**
 - 😄 Pronouns: **Soomeet**
 - ⚡ Fun fact: Cant leave without **Sports, Books & Music**
