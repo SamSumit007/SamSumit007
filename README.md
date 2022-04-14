@@ -5,7 +5,7 @@
 ***
 
 
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> this is Sumit Thakur <img src"https://cdn3.iconfinder.com/data/icons/finalflags/256/India-Flag.png" width="10px"> INdia</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> this is Sumit Thakur <img src"https://cdn3.iconfinder.com/data/icons/finalflags/256/India-Flag.png" height="10px" width="30px"> INdia</h1>
 
 
 
