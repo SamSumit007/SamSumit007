@@ -1,6 +1,6 @@
- <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> SkyScraper! <img src="https://raw.githubusercontent.com/SamSumit007/SamSumit007/master/icon/Olaf.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamSumit007/)
+ <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> SkyScraper!  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamSumit007/)
 
-<img src="https://raw.githubusercontent.com/SamSumit007/SamSumit007/master/icon/MastHead.gif" width="100%">
+
 
 ***
 
