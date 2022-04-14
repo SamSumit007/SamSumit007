@@ -50,7 +50,7 @@
 </p>
 
 ## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SamSumit007&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSumit007&layout=compact&theme=tokyonight"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SamSumit007&show_icons=true&theme=tokyonight">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSumit007&layout=compact&theme=tokyonight"> <br>
 
 
 ## Connect with me:
