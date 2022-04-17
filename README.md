@@ -21,7 +21,7 @@
 - 🤔 I’m looking for help with problem solving skills
 - 💬 Ask me about the **new Technologies and Sports**
 - 📫 How to reach me: **thakursumit280@gmail.com**
-- 😄 Pronouns: **Mr/He/Him**
+- 😄 Pronouns: **Mr/He/His**
 - ⚡ Fun fact: Cant leave without **Sports, Books & Music**
 
 
