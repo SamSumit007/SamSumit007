@@ -1,6 +1,11 @@
  <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> Cenation! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="100px">  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamSumit007/)
 
+## ❤ Views and Followers
 
+<a href="https://github.com/sumitthakur/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SamSumit007">
+</a>
+<a href="https://github.com/Samsumit007?tab=followers"><img src="https://img.shields.io/github/followers/SamSumit007?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ***
 
@@ -33,8 +38,7 @@
 </p>
 
 
-<h1 align="center">
-  Proficiencies
+<h1> Proficiencies<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h1>
 
 <p align="left"> 
@@ -49,11 +53,11 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-## ⚙ Statistics and Languages 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SamSumit007&show_icons=true&theme=tokyonight">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSumit007&layout=compact&theme=tokyonight"> <br>
 
 
-## Connect with me:
+
+
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="left">
 
@@ -62,10 +66,13 @@
 <a href = "https://www.instagram.com/samsumit786/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+<br>
+<br>
+  <br>
 
-## ❤ Views and Followers
+[![Sumit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SamSumit007&theme=tokyonight)]
 
-<a href="https://github.com/sumitthakur/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SamSumit007">
-</a>
-<a href="https://github.com/Samsumit007?tab=followers"><img src="https://img.shields.io/github/followers/SamSumit007?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## ⚙ Statistics and Languages 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SamSumit007&show_icons=true&theme=tokyonight">  | ![Sumit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamSumit007&theme=tokyonight) |  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSumit007&layout=compact&theme=tokyonight"> 
+
