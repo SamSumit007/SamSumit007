@@ -15,12 +15,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 </h3>
 
-
-
-
-
-## 🙋‍♂️ About Me
-
+## 🙋‍♂️ About Me  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
+<h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br/>
 
 - 🔭 I’m currently working on ...project where I have to made clone of any given websites
 - 🌱 I’m currently learning in Masai School as Full Stack Web Developer
