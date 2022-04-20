@@ -31,12 +31,6 @@
 <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
 
-
-<p align="center">
-  An Aspiring Full-stack developer with a curious mind who loves solving very complex and challenging real-world problems. Also, more interested in making a website more functional and user-friendly and proficient in writing clean code and efficient code.
-</p>
-
-
 <h1> Proficiencies<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h1>
 
