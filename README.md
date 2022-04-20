@@ -18,7 +18,7 @@
 ## 🙋‍♂️ About Me 
 <h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
- <img src = "https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif"  width="50%" align="right"> 
+ <img src = "https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif"  width="30%" align="right"> 
 - 🔭 I’m currently working on ...project where I have to made clone of any given websites
 - 🌱 I’m currently learning in Masai School as Full Stack Web Developer
 - 👯 I’m looking to collaborate on project where I can creating or designing a website
