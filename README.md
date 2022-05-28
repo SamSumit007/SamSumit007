@@ -28,7 +28,7 @@
 - 😄 Pronouns: **Mr/He/His**
 - ⚡ Fun fact: Cant leave without **Sports, Books & Music**
 
-<img width="30%" align="left" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<img width="30%" align-items="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
 
 <h1> Proficiencies<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
