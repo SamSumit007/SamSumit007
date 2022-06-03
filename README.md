@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamSumit007/) <br> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" width="100%" align-items = "center">  
+ <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamSumit007/) <br> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" width="100px" align-items = "center">  
 
 ## ❤ Views and Followers
 
@@ -28,7 +28,7 @@
 - 😄 Pronouns: **Mr/He/His**
 - ⚡ Fun fact: Cant leave without **Sports, Books & Music**
 
-<img width="50%" align-items="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<img width="30%" align-items="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
 
 <h1> Proficiencies<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
