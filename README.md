@@ -63,7 +63,7 @@
 <br>
 <div align="left" style="width:100%">
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git profile Trophies</p><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamSumit007)](https://github.com/ryo-ma/github-profile-trophy)
+img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" width="80%" />
 </div>
 
 <h1 align="center">STATS</h1>
