@@ -62,8 +62,8 @@
 <br>
 <br>
 <div align="left" style="width:100%">
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SamSumit007-code-drops&theme=juicyfresh&no-bg=true" />
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git profile Trophies</p><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamSumit007)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <h1 align="center">STATS</h1>
