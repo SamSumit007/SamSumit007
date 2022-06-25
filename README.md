@@ -61,6 +61,18 @@
 </p>
 <br>
 <br>
+<div align="left" style="width:100%">
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=SamSumit007-code-drops&theme=juicyfresh&no-bg=true" />
+</div>
+
+<h1 align="center">STATS</h1>
+    <p align="center" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamSumit007-code-drops&show_icons=true&locale=en&layout=compact"
+            alt="SamSumit007" width="410" height="200px" />
+        &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SamSumit007-code-drops&show_icons=true&locale=en"
+            alt="SamSumit007" width="410" height="200px" />
+    </p>
   <br>
 
 [![Sumit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SamSumit007&theme=tokyonight)]
