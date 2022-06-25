@@ -62,8 +62,8 @@
 <br>
 <br>
 <div align="left" style="width:100%">
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SamSumit007" width="80%" />
+<h1 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git Profile Trophies</h1><br>
+<img src="https://github-profile-trophy.vercel.app/?username=SamSumit007&theme=onedark" width="80%" />
 </div>
 
 
